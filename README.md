@@ -15,4 +15,4 @@ To store images, Amazon S3 (Simple Storage Service) was used. [Click here to rea
 ### Project Requirements
 - Application must run constantly on at least two servers.
 - In case of hardware failure of an instance, another instance must automatically go up. 
-- CSS loaded from a CND.
+- CSS loaded from a CDN.
