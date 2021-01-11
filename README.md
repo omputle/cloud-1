@@ -8,7 +8,7 @@ I used AWS Elastic Beanstalk to create the web environment for the project. AWS 
 
 For servers, Amazon EC2 (Elastic Compute Cloud) was used. [Click here to read more](https://aws.amazon.com/ec2/)
 
-For data manangement, RDS (Relational Database Service) was used. [Click here to read more](https://aws.amazon.com/rds/)
+For data manangement, Amazon RDS (Relational Database Service) was used. [Click here to read more](https://aws.amazon.com/rds/)
 
 To store images, Amazon S3 (Simple Storage Service) was used. [Click here to read more](https://aws.amazon.com/s3/)
 
